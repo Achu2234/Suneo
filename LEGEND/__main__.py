@@ -80,7 +80,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Suneo to your group 💫",
+            text="💫 Add Yuno to your group 💫",
             url="t.me/Yunogasaichatbot?startgroup=true",
         ),
     ],
